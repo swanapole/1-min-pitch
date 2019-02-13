@@ -70,3 +70,13 @@ You need the following to work on the project: -Python version 3.6
  -Flask -Pip -virtualenv
 
  -A text Editor
+
+## Link To Live website
+
+## Technologies used
+
+-Python
+
+-Flask micro-framework
+
+-Bootstrap

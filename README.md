@@ -29,3 +29,9 @@ This is a website that allows app's users to post pitches in various categories,
 **Output Example:** Redirected to the page with registration form
 
 *The program should navigate to new pitch form when Add Pitch is clicked on the navigation bar:
+
+**Input Example:** Click on Add Pitch on the navigation bar
+
+**Output Example:** Redirected to the page with new pitch form
+
+*The program should navigate to home page when logout is clicked on the navigation bar:

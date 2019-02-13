@@ -54,3 +54,11 @@ To start using this project use the following commands:
 
 
 To run this program
+
+run this command lines in your terminal:
+
+-chmod a+x start.sh
+
+-./start.sh
+
+access the application on this localhost address http://127.0.0.1:5000

@@ -47,3 +47,10 @@ To start using this project use the following commands:
 -git clone https://github.com/swanapole/1minute-pitch.git
 
 -cd Pitch
+
+-atom .
+
+-code . (this is if Visual Studio Code is your preferred text editor)
+
+
+To run this program

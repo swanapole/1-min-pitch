@@ -80,3 +80,7 @@ You need the following to work on the project: -Python version 3.6
 -Flask micro-framework
 
 -Bootstrap
+
+## Known Bugs
+
+Haven't identified any but the user is welcome to view and identify if any

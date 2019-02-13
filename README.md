@@ -17,3 +17,9 @@ This is a website that allows app's users to post pitches in various categories,
 **Input Example:** On page load
 
 **Output Example:** The program should navigate to login form when Log in is clicked:
+
+**Input Example:** Click on Login on the navigation bar
+
+ Redirected to a page with login form
+
+*The program should navigate to register form when Register is clicked:

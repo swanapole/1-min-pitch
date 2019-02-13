@@ -62,3 +62,5 @@ run this command lines in your terminal:
 -./start.sh
 
 access the application on this localhost address http://127.0.0.1:5000
+
+## Must requirement

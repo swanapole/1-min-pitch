@@ -23,3 +23,9 @@ This is a website that allows app's users to post pitches in various categories,
  Redirected to a page with login form
 
 *The program should navigate to register form when Register is clicked:
+
+**Input Example:** Click on Register on the navigation bar
+
+**Output Example:** Redirected to the page with registration form
+
+*The program should navigate to new pitch form when Add Pitch is clicked on the navigation bar:

@@ -83,4 +83,10 @@ You need the following to work on the project: -Python version 3.6
 
 ## Known Bugs
 
-Haven't identified any but the user is welcome to view and identify if any
+Haven't identified any but the user is welcome to view and identify if any.
+
+## Licence
+
+MIT License
+
+Copyright (c) 2019 Shilla swanapole

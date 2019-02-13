@@ -35,3 +35,15 @@ This is a website that allows app's users to post pitches in various categories,
 **Output Example:** Redirected to the page with new pitch form
 
 *The program should navigate to home page when logout is clicked on the navigation bar:
+
+**Input Example: ** Click on Logout on the navigation bar
+
+**Output Example:** Redirected to the home page
+
+## Installation requirements
+
+To start using this project use the following commands:
+
+-git clone https://github.com/swanapole/1minute-pitch.git
+
+-cd Pitch

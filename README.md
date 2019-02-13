@@ -64,3 +64,9 @@ run this command lines in your terminal:
 access the application on this localhost address http://127.0.0.1:5000
 
 ## Must requirement
+
+You need the following to work on the project: -Python version 3.6
+
+ -Flask -Pip -virtualenv
+
+ -A text Editor
